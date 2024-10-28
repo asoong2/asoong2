@@ -3,18 +3,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&pause=1000&color=000000&width=435&lines=Welcome!+seulgi's+GitHub+%3A)" alt="Typing SVG" />
 </a>
 
- <div style="border: 1px solid #eeeeee; border-radius: 5px; padding: 20px; margin-top: 20px">
-   
-<div style="display: flex; justify-content: space-between; align-items: center; border: 1px solid #eeeeee; border-radius: 5px; padding: 20px; margin-top: 20px;">
-  <div style="flex: 1; text-align: left; padding: 10px;">
-    <img src="https://github-readme-stats.vercel.app/api?username=asoong2&show_icons=true&title_color=4C77FF&icon_color=4C77FF" alt="GitHub Stats" style="width: 100%; max-width: 300px;" />
-  </div>
-  <div style="flex: 1; text-align: left; padding: 10px;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asoong2&layout=compact&title_color=4C77FF" alt="Top Languages" style="width: 100%; max-width: 300px;" />
-  </div>
-</div>
-
-
 
 
 <!-- 컨택 정보 -->
