@@ -4,17 +4,9 @@
 </a>
 
   <!-- 깃허브 스탯과 언어 사용량 -->
-<table style="width: 100%; border-collapse: collapse; margin-top: 20px;">
-  <tr>
-    <td style="text-align: center; padding: 10px; border: none;">
-      <img src="https://github-readme-stats.vercel.app/api?username=asoong2&show_icons=true&title_color=4C77FF&icon_color=4C77FF" alt="GitHub Stats"/>
-    </td>
-    <td style="text-align: center; padding: 10px; border: none;">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asoong2&layout=compact&title_color=4C77FF" alt="Top Languages"/>
-    </td>
-  </tr>
-</table>
-
+| GitHub Stats | Most Used Languages |
+|--------------|---------------------|
+| <img src="https://github-readme-stats.vercel.app/api?username=asoong2&show_icons=true&title_color=4C77FF&icon_color=4C77FF" alt="GitHub Stats" style="height: 200px;" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asoong2&layout=compact&title_color=4C77FF" alt="Top Languages" style="height: 200px;" /> |
 
 
 <!-- 컨택 정보 -->
