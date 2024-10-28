@@ -67,12 +67,15 @@
       <img src="https://img.shields.io/badge/visualstudiocode-007ACC?style=flat&logo=visualstudiocode&logoColor=white"/>
     </td>
     <td style="width: 25%; vertical-align: top;">
-      <p style="font-size: 15px; font-weight: 600;">Collaboration</p>
-      <img src="https://img.shields.io/badge/github-181717?style=flat&logo=github&logoColor=white"> 
+      <p style="font-size: 15px; font-weight: 600;">Project Management</p>
       <img src="https://img.shields.io/badge/slack-4A154B?style=flat&logo=slack&logoColor=white"> 
       <img src="https://img.shields.io/badge/notion-000000?style=flat&logo=notion&logoColor=white"/>
       <img src="https://img.shields.io/badge/figma-F24E1E?style=flat&logo=figma&logoColor=white">
       <img src="https://img.shields.io/badge/discord-5865F2?style=flat&logo=discord&logoColor=white">
+    </td>
+        <td style="width: 25%; vertical-align: top;">
+      <p style="font-size: 15px; font-weight: 600;">Version Control</p>
+      <img src="https://img.shields.io/badge/github-181717?style=flat&logo=github&logoColor=white"> 
     </td>
   </tr>
 </table>
