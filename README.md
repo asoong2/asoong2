@@ -4,11 +4,8 @@
 </a>
 
   <!-- 깃허브 스탯과 언어 사용량 -->
-
 | <img src="https://github-readme-stats.vercel.app/api?username=asoong2&show_icons=true&title_color=4C77FF&icon_color=4C77FF" alt="GitHub Stats" style="height: 200px;" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asoong2&layout=compact&title_color=4C77FF" alt="Top Languages" style="height: 200px;" /> |
 |:--:|:--:|
-
-
 
 <!-- 컨택 정보 -->
 <p align="center">
@@ -21,8 +18,6 @@
   <a href="mailto:yang950454@gmail.com">
     <img src="https://img.shields.io/badge/yang950454@gmail.com-4C77FF?style=flat&logo=gmail&logoColor=white" /></a>
 </p>
-
-</div>
 
 
  <div style="border: 1px solid #eeeeee; border-radius: 5px; padding: 20px; margin-top: 20px">
@@ -84,6 +79,7 @@
 </div>
 
 <div style="border: 1px solid #eeeeee; border-radius: 5px; padding: 20px; margin-top: 20px">
+
 
 **👾Project**
 
