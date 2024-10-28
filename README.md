@@ -1,36 +1,36 @@
-  <!-- 타이핑 액션 -->
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&pause=1000&color=000000&width=435&lines=Welcome!+seulgi's+GitHub+%3A)" alt="Typing SVG" />
-  </a>
+<!-- 타이핑 액션 -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&pause=1000&color=000000&width=435&lines=Welcome!+seulgi's+GitHub+%3A)" alt="Typing SVG" />
+</a>
 
-<!-- 1. 스탯 및 컨택 박스 -->
-<div style="border: 1px solid #eeeeee; border-radius: 5px; padding: 20px; text-align: center;">
-
-  <!-- 깃허브 스탯과 언어 사용량 -->
-  <div style="display: flex; justify-content: center; align-items: flex-start; gap: 20px;">
-    <div style="display: inline-block;">
-      <img src="https://github-readme-stats.vercel.app/api?username=asoong2&show_icons=true&title_color=4C77FF&icon_color=4C77FF" alt="GitHub Stats" style="height: 200px;" />
-    </div>
-    <div style="display: inline-block;">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asoong2&layout=compact&title_color=4C77FF" alt="Top Languages" style="height: 200px;" />
-    </div>
+ <div style="border: 1px solid #eeeeee; border-radius: 5px; padding: 20px; margin-top: 20px">
+   
+<div style="display: flex; justify-content: space-between; align-items: center; border: 1px solid #eeeeee; border-radius: 5px; padding: 20px; margin-top: 20px;">
+  <div style="flex: 1; text-align: left; padding: 10px;">
+    <img src="https://github-readme-stats.vercel.app/api?username=asoong2&show_icons=true&title_color=4C77FF&icon_color=4C77FF" alt="GitHub Stats" style="width: 100%; max-width: 300px;" />
   </div>
-
-<!-- 컨택-->
-  <div>
-    <a href="https://hits.seeyoufarm.com">
-      <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fasoong2&count_bg=%23D5E3FF&title_bg=%234C77FF&icon=github.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false" style="display: inline-block;" />
-    </a>    
-<a href="https://asoong.tistory.com" target="_blank">
-      <img src="https://img.shields.io/badge/Blog-4C77FF?style=flat&logo=tistory&logoColor=white" style="display: inline-block;" />
-    </a>
-    <a href="https://www.instagram.com/_asoong">
-      <img src="https://img.shields.io/badge/Instagram-4C77FF?style=flat&logo=instagram&logoColor=white" style="display: inline-block;" />
-    </a>
-    <a href="mailto:yang950454@gmail.com">
-      <img src="https://img.shields.io/badge/yang950454@gmail.com-4C77FF?style=flat&logo=gmail&logoColor=white" style="display: inline-block;" /></a>
+  <div style="flex: 1; text-align: left; padding: 10px;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asoong2&layout=compact&title_color=4C77FF" alt="Top Languages" style="width: 100%; max-width: 300px;" />
   </div>
 </div>
+
+
+
+
+<!-- 컨택 정보 -->
+<p align="center">
+  <a href="https://hits.seeyoufarm.com">
+    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fasoong2&count_bg=%23D5E3FF&title_bg=%234C77FF&icon=github.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false" /></a>
+  <a href="https://asoong.tistory.com" target="_blank">
+    <img src="https://img.shields.io/badge/Blog-4C77FF?style=flat&logo=tistory&logoColor=white" /></a>
+  <a href="https://www.instagram.com/_asoong">
+    <img src="https://img.shields.io/badge/Instagram-4C77FF?style=flat&logo=instagram&logoColor=white" /></a>
+  <a href="mailto:yang950454@gmail.com">
+    <img src="https://img.shields.io/badge/yang950454@gmail.com-4C77FF?style=flat&logo=gmail&logoColor=white" /></a>
+</p>
+
+</div>
+
 
  <div style="border: 1px solid #eeeeee; border-radius: 5px; padding: 20px; margin-top: 20px">
 
@@ -113,7 +113,7 @@
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=Business-Bridge&repo=businessbridge-front-end" alt="BusinessBridge Front-end">
       </a>
     </td>
-    <td style="width: 50%; vertical-align: top;">
+    <td style="width: 50%; vertical-align: top;">  
       <a href="https://github.com/asoong2/-myHomePage">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=asoong2&repo=-myHomePage" alt="My Home Page">
       </a>
