@@ -4,9 +4,10 @@
 </a>
 
   <!-- 깃허브 스탯과 언어 사용량 -->
-| GitHub Stats | Most Used Languages |
-|--------------|---------------------|
+
 | <img src="https://github-readme-stats.vercel.app/api?username=asoong2&show_icons=true&title_color=4C77FF&icon_color=4C77FF" alt="GitHub Stats" style="height: 200px;" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asoong2&layout=compact&title_color=4C77FF" alt="Top Languages" style="height: 200px;" /> |
+|:--:|:--:|
+
 
 
 <!-- 컨택 정보 -->
