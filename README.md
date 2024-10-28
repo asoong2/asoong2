@@ -22,7 +22,7 @@
 
  <div style="border: 1px solid #eeeeee; border-radius: 5px; padding: 20px; margin-top: 20px">
 
-**👾Skils**
+**👾Skills**
 <table style="width: 100%; border-spacing: 15px;">
   <tr>
     <td style="width: 25%; vertical-align: top;">
