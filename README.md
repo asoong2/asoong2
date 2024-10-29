@@ -19,10 +19,9 @@
     <img src="https://img.shields.io/badge/yang950454@gmail.com-4C77FF?style=flat&logo=gmail&logoColor=white" /></a>
 </p>
 
-
- <div style="border: 1px solid #eeeeee; border-radius: 5px; padding: 20px; margin-top: 20px">
-
-**👾Skills**
+&nbsp;
+<!-- 스킬 -->
+### **👾Skils**
 <table style="width: 100%; border-spacing: 15px;">
   <tr>
     <td style="width: 25%; vertical-align: top;">
@@ -79,13 +78,10 @@
     </td>
   </tr>
 </table>
-</div>
 
-<div style="border: 1px solid #eeeeee; border-radius: 5px; padding: 20px; margin-top: 20px">
-
-
-**👾Project**
-
+&nbsp;
+<!-- 프로젝트 -->
+### **👾Project**
 <table style="width: 100%; border-spacing: 15px;">
   <tr>
     <td style="width: 50%; vertical-align: top;">
@@ -112,5 +108,3 @@
     </td>
   </tr>
 </table>
-
-</div>
