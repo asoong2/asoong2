@@ -24,7 +24,7 @@
 ### **👾Skils**
 <table style="width: 100%; border-spacing: 15px;">
    <tr>
-     <td><Language</td>
+     <td>Language</td>
      <td>Front-end</td>
      <td>Back-end</td>
      <td>Database</td>
